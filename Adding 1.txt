@@ -1,4 +1,6 @@
 testing the pull request checking
 testing the pull req success
 -----------
-checking the pull request updation in local
+checking the pull request updation in local and checking the branches
+---------------
+git main
